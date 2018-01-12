@@ -25,8 +25,7 @@ Requirements: Python 3.5 ,Keras 2.0.2 , Tensorflow 1.2.1 , OpenCV 3.3, numpy 1.1
   ### -BK_lenet.zip :    
         LeNet Architecture.      
 
-# About The Model:    
-The classification based model:    
+# About The Model:       
 ![alt tag](https://github.com/Barath19/Image_classifier_using_Keras/blob/master/lenet_architecture.png)      
 
 Trained using Backpropogation algorithm with stochastic gradint descent. This is a Binary Classifier.   
