@@ -13,7 +13,7 @@ Requirements: Python 3.5 ,Keras 2.0.2 , Tensorflow 1.2.1 , OpenCV 3.3, numpy 1.1
   ### Add Your own Dataset:    
      Add your training images in  images/<Your Label>/
 
-## Contents /Scripts:  
+## Contents /Scripts of Barath Classifier :):  
   ### -train_network.py :    
         To train the  model.    
   ### -test_network.py:    
